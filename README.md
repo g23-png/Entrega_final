@@ -128,7 +128,7 @@ Este proyecto está bajo licencia MIT. Ver [LICENSE](LICENSE) para más detalles
 - Las funciones usan `print()` para mostrar caracteres en la terminal
 - Las posiciones se rastrean con variables globales
 - El sistema de coordenadas es simple: solo se rastrea X (horizontal) e Y (vertical)
-- Para ver cambios en la lógica, edita [mini_turtle/draewer_logic.py](mini_turtle/draewer_logic.py)
+- Para generar cambios en la lógica, edita [https://github.com/g23-png/Entrega_final/blob/main/blog/draewer_logic.py)
 
 
 ### Referencias ⚠️
